@@ -1,0 +1,5 @@
+/* SVG Animation */
+svg path,
+svg rect{
+  fill: gray;
+}
